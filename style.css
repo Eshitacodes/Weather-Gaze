@@ -5,6 +5,7 @@ body{
     margin: 0;
     height: 100vh;
     justify-content: center;
+    background: linear-gradient(to bottom, #FDCBFF, #A0F1EA, #89CFF0);
 }
 
 .container
